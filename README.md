@@ -1,2 +1,2 @@
-# Python_games
-Games in Python
+# Includes code buidling for neural networks from scratch
+
